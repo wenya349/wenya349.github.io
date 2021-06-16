@@ -1,0 +1,30 @@
+body {
+	font-family:'Arial';
+}
+
+h1 {
+	font-family:'Arial Black';
+	color:#ECCEF5;
+	font-size: 4em;
+	background:#FFFFFF ;
+	line-height: 150px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 20px;
+}
+
+h2 {
+	color: #A901DB;
+	font-size: 2em;
+	margin-top: 50px;
+	border-bottom: 2px red dotted;
+background: #FFFFFF;	
+overflow: hidden;
+}
+
+p {
+	color: #464646;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
